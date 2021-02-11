@@ -1,0 +1,11 @@
+Package: hamster-customized-configs
+Version: 0.1
+Architecture: all
+Description: Configuration files and most used programs by Hamster Tian.
+Maintainer: Hamster Tian <haotia@gmail.com>
+Depends: apt-file, vim, git, wget, curl, build-essential, zsh, psmisc,
+    htop, fcitx, fcitx-libpinyin, tilix, materia-kde, strace, wireshark,
+    m4, autoconf, automake, cmake, pkg-config, libssl-dev, zlib1g-dev,
+    libelf-dev, libpcap-dev, python3-pip, binwalk, clang, okteta,
+    android-tools-adb, android-tools-fastboot, squashfs-tools, brotli,
+    p7zip-full, lz4, lzop, sqlite3

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ln -s /usr/share/fontconfig/conf.avail/59-helvetica-for-arial.conf /etc/fonts/conf.d/
+ln -s /usr/share/fontconfig/conf.avail/79-noto-cjk-prefer-sc.conf /etc/fonts/conf.d/

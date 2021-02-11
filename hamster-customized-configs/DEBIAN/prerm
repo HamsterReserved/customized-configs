@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -f /etc/fonts/conf.d/59-helvetica-for-arial.conf
+rm -f /etc/fonts/conf.d/79-noto-cjk-prefer-sc.conf
